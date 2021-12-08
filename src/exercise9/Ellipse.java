@@ -7,8 +7,8 @@ public class Ellipse {
 
     public Ellipse() {
         startPoint = new Point(0, 0);
-        a = 0;
-        b = 0;
+        a = 1;
+        b = 1;
     }
 
     public Ellipse(Point startPoint, double a, double b) {
